@@ -55,7 +55,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+        </activity>g
 
         <provider
             android:name="android.support.v4.content.FileProvider"
