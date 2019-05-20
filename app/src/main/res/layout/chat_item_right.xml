@@ -47,7 +47,7 @@
             android:visibility="gone"
             android:src="@mipmap/ic_launcher"
             android:fitsSystemWindows="true"
-            android:layout_below="@+id/show_message"
+            android:layout_below="@+id/iv_audio"
             android:layout_alignParentRight="true"/>
 
         <TextView
