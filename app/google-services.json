@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712659994901",
+    "firebase_url": "https://uchat-6f951.firebaseio.com",
+    "project_id": "uchat-6f951",
+    "storage_bucket": "uchat-6f951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712659994901:android:9c529990bff78ffc",
+        "android_client_info": {
+          "package_name": "com.example.uchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712659994901-d1eec3m4br4tlibp3h8uqcfar9v3ji8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uchat",
+            "certificate_hash": "703543fb7fdaf23bee16b051812614425c14bfb2"
+          }
+        },
+        {
+          "client_id": "712659994901-35ffs5naiilasqkfkg3b5pf8q9c1i7cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSn6nr5aNy2SRXgN3I-Klibqu5c16lGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712659994901-35ffs5naiilasqkfkg3b5pf8q9c1i7cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
